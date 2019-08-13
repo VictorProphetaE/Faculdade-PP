@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1435102184 source:f:\new folder\root\nova pasta\pp\resta um\main.cpp
+	<string>
+	<fstream>
+	<iostream>
+	<sstream>
+	<exception>
+

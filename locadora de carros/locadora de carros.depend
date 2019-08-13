@@ -1,0 +1,32 @@
+# depslib dependency file v1.0
+1441585334 source:f:\new folder\root\nova pasta\pp\locadora de carros\car.cpp
+	<iostream>
+	<stdio.h>
+	<string.h>
+	"Car.h"
+
+1441585266 f:\new folder\root\nova pasta\pp\locadora de carros\car.h
+
+1441585355 source:f:\new folder\root\nova pasta\pp\locadora de carros\customer.cpp
+	<iostream>
+	<stdio.h>
+	<string.h>
+	"Customer.h"
+
+1441585237 f:\new folder\root\nova pasta\pp\locadora de carros\customer.h
+
+1441585406 source:f:\new folder\root\nova pasta\pp\locadora de carros\invoice.cpp
+	<iostream>
+	<iomanip>
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+	"Invoice.h"
+
+1441585266 f:\new folder\root\nova pasta\pp\locadora de carros\invoice.h
+	"Customer.h"
+	"Car.h"
+	"RentDate.h"
+
+1441585266 f:\new folder\root\nova pasta\pp\locadora de carros\rentdate.h
+

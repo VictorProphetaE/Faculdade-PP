@@ -1,0 +1,19 @@
+# depslib dependency file v1.0
+1429839162 source:f:\new folder\root\nova pasta\pp\fila\main.cpp
+	<iostream>
+	<cstdlib>
+	"Fila.h"
+
+1196881042 f:\new folder\root\nova pasta\pp\fila\fila.h
+	<iostream>
+	"No.h"
+
+1196881042 f:\new folder\root\nova pasta\pp\fila\no.h
+	<iostream>
+
+1429838465 source:f:\new folder\root\nova pasta\pp\fila\fila.cpp
+	"Fila.h"
+
+1196881042 source:f:\new folder\root\nova pasta\pp\fila\no.cpp
+	"No.h"
+
